@@ -1,7 +1,7 @@
 ---
 title: "Sample Post"
 date: 2022-12-04T18:52:23-05:00
-draft: false
+draft: true
 author: Dan
 Params:
   ShowReadingTime: true
