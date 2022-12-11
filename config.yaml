@@ -1,8 +1,9 @@
-baseURL: https://isomorphic.group/
+baseURL: http://isomorphic.group/
 languageCode: en-us
 title: Isomorphic
 theme: papermod
 paginate: 5
+buildDrafts: false
 
 menu:
     main:
