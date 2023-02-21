@@ -70,7 +70,7 @@ Instead of "1, 2, 3," we count "wheel, penicillin, indoor plumbing." Convinced?
 
 There are infinitely many prime (novel) ideas, but they get less common as you
 stray from zero. The overall proportion of composite (Frankenstein) ideas increases.
-Composite ideas are all unique in their construction and can decomposed into a
+Composite ideas are all unique in their construction and can be decomposed into a
 product of prime ideas. Try it--take some of your best ideas and see if you
 can perform a prime idea factorization. Maybe `car = wheel * engine * horse buggy`.
 You could probably represent some forms of neural networks as `(logistic regression)^n`
