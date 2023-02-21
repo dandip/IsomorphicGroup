@@ -55,7 +55,7 @@ intuition for thinking about ideas.</p>
 Instead of &ldquo;1, 2, 3,&rdquo; we count &ldquo;wheel, penicillin, indoor plumbing.&rdquo; Convinced?</p>
 <p>There are infinitely many prime (novel) ideas, but they get less common as you
 stray from zero. The overall proportion of composite (Frankenstein) ideas increases.
-Composite ideas are all unique in their construction and can decomposed into a
+Composite ideas are all unique in their construction and can be decomposed into a
 product of prime ideas. Try it&ndash;take some of your best ideas and see if you
 can perform a prime idea factorization. Maybe <code>car = wheel * engine * horse buggy</code>.
 You could probably represent some forms of neural networks as <code>(logistic regression)^n</code>
